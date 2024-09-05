@@ -1,6 +1,10 @@
 # Airbag 
 This repository has the files used in Make: Inventions Episode 3 | Airbags.
 
+> ⚠️ **Note that this project is archived and moved to [https://code.grathio.com](code.grathio.com). Updates will not be published here and this repository may be removed without notice.** ⚠️
+> - Sept 5, 2024
+
+
 ## At Your Own Risk
 The goal of this project was to get from zero to a working prototype as quickly as possible. It was not to produce beautiful code or circuits. 
 
